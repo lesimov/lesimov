@@ -1,1 +1,1 @@
-### explodin' wilderness... ☕🌱
+### explorin' wilderness... ☕🌱
