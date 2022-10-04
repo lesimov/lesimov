@@ -1,5 +1,3 @@
-### explorin' wilderness... ☕🌱
-
 <h1 align="center">Currently learning</h1>
 
 <p align="center">
