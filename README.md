@@ -6,6 +6,5 @@
 <h1 align="center">Currently learning</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81008147/193822685-cd943dec-9157-4f70-9660-7955e9fb9b12.png" width="48">
   <img src='https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png' width='48'>
 </p>
