@@ -7,5 +7,5 @@
 <h1 align="center">Currently learning</h1>
 
 <p align="center">
-  <img src='[https://w7.pngwing.com/pngs/130/82/png-transparent-prisma-hd-logo-thumbnail.png](https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prisma.png)' width='48'>
+  <img src='https://w7.pngwing.com/pngs/130/82/png-transparent-prisma-hd-logo-thumbnail.png' width='48'>
 </p>
