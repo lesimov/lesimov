@@ -7,5 +7,5 @@
 <h1 align="center">Currently learning</h1>
 
 <p align="center">
-  <img src='https://w7.pngwing.com/pngs/130/82/png-transparent-prisma-hd-logo-thumbnail.png' width='48'>
+  <![prisma](https://github.com/lesimov/lesimov/assets/81008147/9667fa6c-40fe-476c-988d-9fa9dd693099)
 </p>
